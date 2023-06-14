@@ -1,0 +1,79 @@
+{
+  "title":"Você seria um heroi ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Na época da escola, como você era conhecido?",
+      "options":[
+        {"id": 1, "name":"O Líder", "alias":"B"},
+        {"id": 2, "name":"O CDF", "alias":"A"},
+        {"id": 3, "name":"O Tímido", "alias":"A"},
+        {"id": 4, "name":"O Novato", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Se você pudesse ter um poder, qual seria?",
+      "options":[
+        {"id": 1, "name":"Teletransportar", "alias":"B"},
+        {"id": 2, "name":"Telepatia", "alias":"A"},
+        {"id": 3, "name":"Ler Mentes", "alias":"A"},
+        {"id": 4, "name":"Invisibilidade", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Com qual animal de estimação você mais se identifica?",
+      "options":[
+        {"id": 1, "name":"Leão", "alias":"B"},
+        {"id": 2, "name":"Corvo", "alias":"A"},
+        {"id": 3, "name":"Cobra", "alias":"A"},
+        {"id": 4, "name":"Texugo", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que mais te atrai na natureza?",
+      "options":[
+        {"id": 1, "name":"O Clarão de um Raio", "alias":"B"},
+        {"id": 2, "name":"O Cheiro de Terra Molhada", "alias":"A"},
+        {"id": 3, "name":"O Barulho das águas do mar", "alias":"A"},
+        {"id": 4, "name":"O vento forte", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você prefere...",
+      "options":[
+        {"id": 1, "name":"Cristais", "alias":"B"},
+        {"id": 2, "name":"Vela aromatizada", "alias":"A"},
+        {"id": 3, "name":"Óleos Essenciais", "alias":"A"},
+        {"id": 4, "name":"Incenso", "alias":"B"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "O que mais te tira do sério?",
+      "options":[
+        {"id": 1, "name":"Perder uma partida de quadribol", "alias":"B"},
+        {"id": 2, "name":"Quando um feitiço sai errado", "alias":"A"},
+        {"id": 3, "name":"Receber punição, mesmo que merecida", "alias":"A"},
+        {"id": 4, "name":"Ser chamado atenção e retirado da sala de aula injustamente", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Complete a frase: Olhos de serpente, asas de morcego, quando a minha varinha eu agitar...",
+      "options":[
+        {"id": 1, "name":"Serei a pessoa mais paciente do mundo.", "alias":"B"},
+        {"id": 2, "name":"Serei a pessoa mais importante do mundo.", "alias":"A"},
+        {"id": 3, "name":"Serei a pessoa mais poderosa do mundo.", "alias":"A"},
+        {"id": 4, "name":"Serei a pessoa mais vitoriosa do mundo.", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
